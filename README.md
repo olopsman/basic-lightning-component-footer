@@ -1,0 +1,1 @@
+# basic-lightning-component-footer
